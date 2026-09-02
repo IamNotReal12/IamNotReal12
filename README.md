@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there, I'm Akash Patel 
 
-<!--
-**IamNotReal12/IamNotReal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm **Developer** | **Programmer** | **Learner**
+- Currently Learning **Java**, **Python**, **Web Development** And **Machine Learning**
+- Willing to contribute more and more in **Open Source Projects**
+
+
+### Feel Free to Contact me.....
+
+<p align="center">
+	<a href="https://github.com/IamNotReal12/IamNotReal12"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.instagram.com/carlos08mario?igsi=a2hkeGttbmJnbDM5"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://twitter.com/imakash3011"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+</p>
+
+### Programming Languages....
+
+<p align="center">
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/?size=128&id=wDKHrGlFU936&format=png"/>
+</p>
+
+#### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{imakash3011}/count.svg)
+
+
+----
+Credit: [imakash3011](https://github.com/imakash3011)
+
+Last Edited on: 2/09,2026
