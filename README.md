@@ -1,13 +1,13 @@
-## Hi there, I'm Akash Patel 
+## Hi there, I'm Carlos Mario Cardona
 
 <p align="center">
-<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
+<img width="20%" src="https://img.icons8.com/?size=160&id=iZBBn0SF22gW&format=png"/>
 </p>
 
 
 - I'm **Developer** | **Programmer** | **Learner**
-- Currently Learning **Java**, **Python**, **Web Development** And **Machine Learning**
-- Willing to contribute more and more in **Open Source Projects**
+- Currently Learning **Java**, **Python** and **SQL**
+- Willing to work with others and make great and big projects.
 
 
 ### Feel Free to Contact me.....
@@ -23,14 +23,6 @@
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/?size=128&id=wDKHrGlFU936&format=png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/?size=128&id=QSjnrUKYMnxO&format=png"/>
 </p>
 
-#### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{imakash3011}/count.svg)
-
-
-----
-Credit: [imakash3011](https://github.com/imakash3011)
-
-Last Edited on: 2/09,2026
