@@ -42,15 +42,12 @@
 </p>
 
 ---
-
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamNotReal12&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamNotReal12&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IamNotReal12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamNotReal12&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Lenguajes más usados" width="45%" />
 </p>
-
----
 
 ### 📫 ¡Hablemos y conectemos!
 
