@@ -20,8 +20,24 @@
 
 - 🔭 Actualmente me encuentro construyendo proyectos enfocados en **Java** y **Python**.
 - 📚 Expandiendo mis conocimientos en **bases de datos relacionales con SQL**.
+- 🌐 Dominio del idioma **Inglés** para documentación, lectura y proyectos globales.
 - 🤝 ¡Siempre abierto a colaborar en proyectos de código abierto y grandes ideas!
-- ⚡ **Dato curioso:** Me encanta resolver problemas mediante código y aprender tecnologías nuevas todos los días.
+
+---
+
+### ✨ Más sobre mí
+
+- 🏋️‍♂️ **Fitness & Disciplina:** Me apasiona el entrenamiento en el gimnasio; aplico la misma constancia del ejercicio a la programación.
+- 💻 **Tech Enthusiast:** Apasionado por la tecnología, la automatización y descubrir herramientas que optimicen procesos.
+- ⚡ **Dato curioso:** Me encanta resolver problemas complejos mediante lógica y código todos los días.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Inglés-Bilingüe-blue?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Inglés"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pasión-Tecnología-orange?style=for-the-badge&logo=techcrunch&logoColor=white" alt="Tecnología"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Estilo_de_Vida-Gimnasio_%26_Fitness-red?style=for-the-badge&logo=applenews&logoColor=white" alt="Gym"/>
+</p>
 
 ---
 
@@ -41,6 +57,7 @@
   </a>
 </p>
 
+---
 
 ### 📫 ¡Hablemos y conectemos!
 
