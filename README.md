@@ -41,12 +41,7 @@
   </a>
 </p>
 
-### 📊 Mis Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IamNotReal12&theme=2077" width="48%" alt="Perfil" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamNotReal12&theme=2077" width="45%" alt="Lenguajes" />
-</p>
 ### 📫 ¡Hablemos y conectemos!
 
 <p align="center">
